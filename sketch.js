@@ -26,7 +26,7 @@ function draw()
   background(0);
 
   //making the logo dissapear
-  visibility = visibility - 5;
+  visibility = visibility - 20;
   tint(255,visibility);
 
   //changing the gameState
